@@ -10,7 +10,8 @@ Stakeholders and Interests:
 Client: person who wants to make note of our floral resources for the environment
 Administrator: Someone who wants to keep things organized
 Researches: People who want to use the data for scientific observations
-Brief Description: This use case describes how user submits data
+
+Brief Description: This use case describes researchers retrieve data
 		
 Trigger: Researcher wants to go through the data collected
 	Type:	Internal
