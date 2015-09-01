@@ -1,0 +1,34 @@
+Use Case Data Administrator
+
+Use Case Name:	Administrator
+Submit Data	ID: 3
+Importance Level: High
+Primary Actor: Administrator	
+Use Case Type: Essential
+
+Stakeholders and Interests: 	
+Client: person who wants to make note of our floral resources for the environment
+Administrator: Someone who wants to keep things organized
+Researches: People who want to use the data for scientific observations
+
+Brief Description: This use case describes how the data administrator updates data
+		
+Trigger: Administrator needs to update data
+	Type:	Internal 
+
+Relationships: 
+	Association:	Administrator
+	Include:	 Database Update	
+	Extend:	N/A	
+	Generalization: 	N/A
+
+Normal Flow of Events:
+1.	Admin logins in through phpmyadmin
+2.	Admin understands mysql, and can manipulate the data through phpmyadmin
+
+
+SubFlows:
+S-1:	 N/A
+
+Alternate/Exceptional Flows
+N/A
