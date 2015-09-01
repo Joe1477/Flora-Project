@@ -10,7 +10,7 @@ Weather: Text field (requirement) - (api if time allows)
 Location: Geoscope Api
 Additional: Notes
 
-The researcher needs to be able to quickly access via clicking on a link. 
+The researcher needs to be able to quickly access information using a link. 
 (Export to excel file type)
 
 The administrator needs access to the database in a clear and easy to maintain setup.
