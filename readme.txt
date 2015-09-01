@@ -14,3 +14,4 @@ The administrator needs access to the database in a clear and easy to maintain s
 To complete this setup we will be using html, css, php, and mysql. The database will be mysql as that’s what the administrator is familiar with. We will first build the front-end to gather the information, then proceed with the backend to create the database, and finally link it together. If time allows we will use an additional third party API to streamline the process.
 
 Use Case Scenarios are attached to user Joe1477 under Flora-Project.
+ 
