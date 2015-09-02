@@ -13,7 +13,7 @@ The project has 3 user types: observer, administrative, researcher. The observer
 * Additional Notes: Text Field
 
 ##The researcher needs to be able to quickly access via clicking on a link. ##
-* (Export to excel file type)
+* Export to excel file type
 * This is secure
 
 ##The administrator needs access to the database##
