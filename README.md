@@ -13,7 +13,8 @@ The project has 3 user types: observer, administrative, researcher. The observer
 ##The researcher needs to be able to quickly access via clicking on a link. ##
 * (Export to excel file type)
 
-##The administrator needs access to the database in a clear and easy to maintain setup.##
+##The administrator needs access to the database##
+* Phpmyadmin login information, database built to be easily understood
 
 To complete this setup we will be using html, css, php, and mysql. The database will be mysql as that’s what the administrator is familiar with. We will first build the front-end to gather the information, then proceed with the backend to create the database, and finally link it together. If time allows we will use an additional third party API to streamline the process.
 
