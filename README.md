@@ -3,12 +3,12 @@ The project has 3 user types: observer, administrative, researcher. The observer
 ##The observer is just gathering and submitting information: ##
 * Unique ID: automated per transaction (alpha numeric) 
 * Date/Time: if current timestamp else ask for date/time
-* Name: 
-* Plant Name: 
+* Name: Text Field
+* Plant Name: Text Field
 * Soil Type: Dropbox (limited choices)
 * Weather: Text field (requirement) - (api if time allows)
 * Location: Geoscope Api
-* Additional: Notes
+* Additional Notes: Text Field
 
 ##The researcher needs to be able to quickly access via clicking on a link. ##
 * (Export to excel file type)
