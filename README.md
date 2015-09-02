@@ -1,6 +1,6 @@
 The project has 3 user types: observer, administrative, researcher. The observer needs to be able to submit data in as quick and efficient manner. The researcher needs to be able to retrieve the data in the excel format. The administrator needs to be able to access the database through a url.
 
-The client side is just gathering and submitting information: 
+The observer is just gathering and submitting information: 
 * Unique ID: automated per transaction (alpha numeric) 
 * Date/Time: if current timestamp else ask for date/time
 * Name: 
